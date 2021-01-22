@@ -6,5 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  }
+  },
+  "apiKey": "AIzaSyBWnp0Wa0ObeKwPxX7AwgYjZc5qjlVCdHc",
+  "authDomain": "diogo-jsferrari.firebaseapp.com",
+  "projectId": "diogo-jsferrari",
+  "storageBucket": "diogo-jsferrari.appspot.com",
+  "messagingSenderId": "62302449323",
+  "appId": "1:62302449323:web:d7d2e4419933df083311ee",
+  "measurementId": "G-EJHKGMQ2XQ"
 }
